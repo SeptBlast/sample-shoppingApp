@@ -9,6 +9,12 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "author": {
+    "name": "Devesh Kumar",
+    "email": "deveshkumarsep12@outlook.com",
+    "url": "https://deveshkumar.online"
+  },
+  "main": "index.js",
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.2",
